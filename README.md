@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @swqb
+- 👀 I’m interested in making a quotebook app for my school
+- 🌱 I’m currently learning HTML, JS, CSS, Flutter, Dart, Firebase
+- 💞️ I’m looking to collaborate on nothing rn (lmk if you have an idea though)
+- 📫 How to reach me: swqb@usa.com
+- 😄 Pronouns: un/known
